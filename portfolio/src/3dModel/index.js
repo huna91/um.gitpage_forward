@@ -1,3 +1,3 @@
 import { Character } from "./character";
-
-export { Character };
+import { Space } from "./space";
+export { Character, Space };
